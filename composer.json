@@ -1,0 +1,9 @@
+{
+    "config": {
+        "vendor-dir": "cb-core/vendor"
+    },
+    "require": {
+        "jajo/jsondb": "^3.0",
+        "fabpot/goutte": "^4.0"
+    }
+}
